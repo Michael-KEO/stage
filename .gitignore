@@ -8,9 +8,13 @@ phishing-email-detector/venv/
 __pycache__/
 .idea/
 
-# Ignore large phishing project files
-/phishing-email-detector/app/phishing-detector-model/
-/phishing-email-detector/app/results/
+# Ignore large files
+network-sniffer/data/*
+!network-sniffer/data/.gitkeep
 
-# Ignore all large network-sniffer data files
-/network-sniffer/data/
+phishing-email-detector/app/results/*
+!phishing-email-detector/app/results/.gitkeep
+
+phishing-email-detector/app/phishing-detector-model/*
+!phishing-email-detector/app/phishing-detector-model/.gitkeep
+
