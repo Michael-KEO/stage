@@ -46,7 +46,7 @@ Exemples d'utilisation :
 chmod +x rapids-jupyter.sh
 ./rapids-jupyter.sh
 ```
-Consulter le contenu du script pour adapter les options (port, token, montage de volumes, image Docker si utilisé).
+Consulter le contenu du script pour adapter les options (port, token, montage de volumes, etc.).
 
 ## Exécution des notebooks
 - Ouvrir Jupyter Lab (via le script ci‑dessus ou `jupyter lab`) et lancer :
