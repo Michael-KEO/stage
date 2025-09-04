@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+*/venv/
+network-sniffer/venv/
+phishing-email-detector/venv/
+
+# Ignore Python cache and IDE files
+*.pyc
+__pycache__/
+.idea/
+
+# Ignore large phishing project files
+/phishing-email-detector/app/phishing-detector-model/
+/phishing-email-detector/app/results/
+
+# Ignore all large network-sniffer data files
+/network-sniffer/data/

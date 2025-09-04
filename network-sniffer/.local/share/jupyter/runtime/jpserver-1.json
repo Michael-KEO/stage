@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "root_dir": "/workspace",
+  "secure": false,
+  "sock": "",
+  "token": "9d6d4c9d647afbaa105ff2a2233214878ace3536cfa5061f",
+  "url": "http://70cdb0bf5ecc:8888/",
+  "version": "2.14.1"
+}
