@@ -7,7 +7,7 @@ Dossiers exclus (seules des entrées `.gitkeep` sont conservées) :
 
 Récupération des données pour network-sniffer
 - Lien de téléchargement : https://drive.google.com/file/d/1JL5Zl96omgYqfAkX4Efo87QccxFygsfd/view?usp=sharing
-- Instructions (Windows + WSL) :
+- Instructions:
   1. Télécharger l'archive
   2. Copier dans le répertoire du projet et extraire :
      - `unzip project_data.zip -d data`
